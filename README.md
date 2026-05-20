@@ -1,7 +1,7 @@
 # Open-source-Sustainability
 A summary of projects and code commits for our Open-source Sustainability initiative
 
-Cpntributors:
+Contributors:
 
 ### 2022
 [whatcoloris](https://github.com/whatcoloris) Brian McCorkle   
