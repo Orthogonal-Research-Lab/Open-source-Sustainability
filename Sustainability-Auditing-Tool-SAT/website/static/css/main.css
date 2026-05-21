@@ -1,0 +1,24 @@
+.model iframe {
+    display: flex;
+    justify-content: center;
+    height: 800px;
+    width: 800px;
+}
+
+.btn-lg, .btn-group-lg > .btn {
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: 0.3rem;
+    background-color: navy;
+    color: #ffffff;
+}
+
+#model-comparison {
+    visibility: hidden;
+}
+.model-comparison iframe {
+    display: flex;
+    justify-content: center;
+    height: 800px;
+    width: 800px;
+}
