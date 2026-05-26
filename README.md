@@ -6,11 +6,11 @@ Bradly Alicea, Hussain Ather, Himanshu Chougule, Brian McCorkle, and Jesse Paren
 Agent-based Models](https://www.researchgate.net/publication/369143414_Open-source_Community_Sustainability_using_Agent-based_Models). ResearchGate.
 
 Bradly Alicea (2025).
-[Open-source Sustainability: progress and connections to ActInf](https://youtu.be/DJzNsvwH8Jw)
+[Open-source Sustainability: progress and connections to ActInf.](https://youtu.be/DJzNsvwH8Jw)
 5th Active Inference Symposium.
 
 Sarrah Bastawala (2024).
-[The Agent-based world of open-source community sustainability](https://youtu.be/AxeEP6nG1S0)
+[The Agent-based world of open-source community sustainability.](https://youtu.be/AxeEP6nG1S0)
 Lightning talk, Googe Summer of Code Contributor Forum.
 
 Sarrah Bastawala (2024).
