@@ -7,7 +7,7 @@ Agent-based Models](https://www.researchgate.net/publication/369143414_Open-sour
 
 Bradly Alicea (2025).
 [Open-source Sustainability: progress and connections to ActInf.](https://youtu.be/DJzNsvwH8Jw)
-5th Active Inference Symposium.
+[5th Active Inference Symposium](https://www.activeinference.institute/symposium)
 
 Sarrah Bastawala (2024).
 [The Agent-based world of open-source community sustainability.](https://youtu.be/AxeEP6nG1S0)
@@ -19,7 +19,7 @@ Flash talk, Googe Summer of Code Conference.
 
 Bradly Alicea, Jesse Parent (2023).
 [Open-source Sustainability: an agent-based, cybernetic approach.](https://youtu.be/x1BrHeMkQvA)
-Sustainable AI Conference.
+[Sustainable AI Conference](https://www.sustainable-ai-conference.eu/).
 
 ## Contributors:
 
